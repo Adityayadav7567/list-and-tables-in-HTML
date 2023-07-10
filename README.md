@@ -1,2 +1,2 @@
 # list-and-tables-in-HTML
-for bibigenners how are working on HTML.
+For bibigenners who are working on HTML. User can eaisly make list and tables using this codes.
